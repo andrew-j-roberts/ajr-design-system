@@ -1,8 +1,7 @@
 # ajr-design-system
-a react component library built on top of reactstrap
+a styled react component library 
 
-Made possible and built on top of:
-  * https://reactstrap.github.io/
-  * https://www.styled-components.com/
-  * https://github.com/smooth-code/svgr
-  * https://fontawesome.com/
+Made possible by and built on top of:  
+  * https://www.styled-components.com/ 
+  * https://fontawesome.com/ :  library of all the SVGs I used
+  * https://github.com/smooth-code/svgr : used to convert all SVGs to importable react components
